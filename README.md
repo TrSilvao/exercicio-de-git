@@ -1,5 +1,10 @@
 # exercicio-de-git
-criado apenas para poder fazer um exercicio
+# Jogo de adivinhar os numeros
 
+## Sobre o jogo
 
-sono muito sono
+# Obigetivo
+
+* Se divertir
+* Treinar o raciocinio logico
+* Aprender um pouco sobre como funciona a aleatoriedade na programaçao. 
